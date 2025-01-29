@@ -1,0 +1,1 @@
+ollama pull deepseek-r1:32b-qwen-distill-q4_K_M
